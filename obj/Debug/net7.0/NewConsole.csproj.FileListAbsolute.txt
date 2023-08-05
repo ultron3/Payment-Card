@@ -1,0 +1,15 @@
+C:\Users\IdeaPad\OneDrive\Documenti\NewConsole\bin\Debug\net7.0\NewConsole.exe
+C:\Users\IdeaPad\OneDrive\Documenti\NewConsole\bin\Debug\net7.0\NewConsole.deps.json
+C:\Users\IdeaPad\OneDrive\Documenti\NewConsole\bin\Debug\net7.0\NewConsole.runtimeconfig.json
+C:\Users\IdeaPad\OneDrive\Documenti\NewConsole\bin\Debug\net7.0\NewConsole.dll
+C:\Users\IdeaPad\OneDrive\Documenti\NewConsole\bin\Debug\net7.0\NewConsole.pdb
+C:\Users\IdeaPad\OneDrive\Documenti\NewConsole\obj\Debug\net7.0\NewConsole.csproj.AssemblyReference.cache
+C:\Users\IdeaPad\OneDrive\Documenti\NewConsole\obj\Debug\net7.0\NewConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IdeaPad\OneDrive\Documenti\NewConsole\obj\Debug\net7.0\NewConsole.AssemblyInfoInputs.cache
+C:\Users\IdeaPad\OneDrive\Documenti\NewConsole\obj\Debug\net7.0\NewConsole.AssemblyInfo.cs
+C:\Users\IdeaPad\OneDrive\Documenti\NewConsole\obj\Debug\net7.0\NewConsole.csproj.CoreCompileInputs.cache
+C:\Users\IdeaPad\OneDrive\Documenti\NewConsole\obj\Debug\net7.0\NewConsole.dll
+C:\Users\IdeaPad\OneDrive\Documenti\NewConsole\obj\Debug\net7.0\refint\NewConsole.dll
+C:\Users\IdeaPad\OneDrive\Documenti\NewConsole\obj\Debug\net7.0\NewConsole.pdb
+C:\Users\IdeaPad\OneDrive\Documenti\NewConsole\obj\Debug\net7.0\NewConsole.genruntimeconfig.cache
+C:\Users\IdeaPad\OneDrive\Documenti\NewConsole\obj\Debug\net7.0\ref\NewConsole.dll
