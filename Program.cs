@@ -13,11 +13,19 @@ public class Program{
         IPay amount=new PaymentAmount(100,1000);
         Console.WriteLine(amount.Pay());
 
+        ITransfer transfer=new PaymentTransfer();
+       Console.WriteLine("You transfer: "+transfer.Transfer(1000));
     }
 }
 
  public  interface IPay{
     public double Pay();
+}
+
+public interface ITransfer
+{
+    public double Transfer();
+    double Transfer(double money);
 }
 
 
@@ -86,9 +94,32 @@ public class PaymentAmount:Payment,IPay{
     {
 
         double goin=Balance+Amount;
-        Console.WriteLine("goin: "+Amount);
-
+        Console.WriteLine("Deposit: "+Amount +" N26 Bank");
         return goin;
         
+    }
+
+
+}
+
+
+public class PaymentTransfer : ITransfer
+{
+    public string Bank{get;set;}
+
+    public double Money{get;set;}
+
+   
+
+   public  double Transfer(double  money)
+    {
+        Money=money;
+
+        return   Money;
+    }
+
+    public double Transfer()
+    {
+        throw new NotImplementedException();
     }
 }
